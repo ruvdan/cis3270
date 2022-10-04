@@ -1,5 +1,5 @@
 package Learning.edu.cis3270;
 
-public class LearningJava {
+public class LearningJavaA {
 
 }
