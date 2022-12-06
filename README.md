@@ -1,4 +1,4 @@
-# cis3270
+# AirFair
 
 Our Project is about Booking flights and below are the overview of our Project:
 
