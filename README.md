@@ -76,8 +76,7 @@ NOTE: Choosing any other RDBMS is automatic failure of the project.
 
 
 
-
-Documentation Requirements:
+**Documentation Requirements:**
 
 It should be at least 5 pages which explain:
 
@@ -91,7 +90,7 @@ Briefly explains about functionality and flow of the program
 
 
 
-Application GUI:
+**Application GUI:**
 
 GUI is a must for this project and application will not be considered for grading if it does not have a GUI. An elegant GUI is a plus but not a requirement for the project.
 
