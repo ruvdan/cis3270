@@ -1,0 +1,7 @@
+Engaged in a 3 person team to develop an application from scratch using Java, JavaFX, and MySQL
+
+Project scope included creating a working app that allowed a user to regsister with a flight booking system and look up/add/remove/edit flights from their itinerary. The app must also allow an admin to login and have access to all users' itineraries to add/remove/edit any of the flights
+
+Both users and admins must have access to flight lookup within the app to see all avaliable flights from custom selection of departure/arrival date as well as departure/arrival city
+
+All flight data as well as user credential data must be created/stored/edited in the developed cloud database
